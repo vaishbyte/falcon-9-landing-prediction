@@ -32,5 +32,5 @@ SpaceX saves costs by reusing the first stage. Predicting landing success helps 
 ## How to run (local)
 1. Clone the repo:
 ```bash
-git clone https://github.com/<yourusername>/Falcon9-Landing-Prediction.git
+git clone https://github.com/<vaishbyte>/Falcon9-Landing-Prediction.git
 cd Falcon9-Landing-Prediction
