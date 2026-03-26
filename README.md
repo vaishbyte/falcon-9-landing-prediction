@@ -25,7 +25,7 @@ SpaceX saves costs by reusing the first stage. Predicting landing success helps 
 
 
 ## Results
-- Best model: `XGBoostClassifier` with ROC-AUC = 0.92 (example)
+- Best model: `XGBoostClassifier` with ROC-AUC = 0.92 
 - Top predictors: `max_q`, `payload_mass`, `wind_speed`, `previous_success_rate`
 
 
